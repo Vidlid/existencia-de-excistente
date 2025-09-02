@@ -1,0 +1,31 @@
+.body_background{
+    background-image: url(fondo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+h1
+{
+    color: antiquewhite;
+    font-size:40px;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: wheat;
+    border-style: ridge;
+}
+button
+{
+    background-color: black;
+    border: none;
+    color:aliceblue;
+    padding: 10px 42.000000000000000000000001px;
+    font-size: 16px;
+}
+
+body{
+    cursor: pointer;
+}
+input{
+    margin-right: 20px;
+}
